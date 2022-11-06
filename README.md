@@ -1,4 +1,6 @@
-# Otsikko
+# Ohjelmistotekniikan harjoitustyö
+## Tehtävät
+### Viikko 1
 
-**Lorem ipsum dolor sit amet**, *consectetur adipiscing elit*, 
-sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+[komentorivi.txt](https://github.com/jattajulia/Ohte22-Harjoitus/blob/master/laskarit/viikko1/komentorivi.txt)
+[gitlog.txt](https://github.com/jattajulia/Ohte22-Harjoitus/blob/master/laskarit/viikko1/gitlog.txt)
