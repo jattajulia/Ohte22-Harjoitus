@@ -1,0 +1,113 @@
+commit bfd6f8d6e0988c6b175dfa3df5edbada032ccc48
+Author: jattajulia <jatta.kivihaka@helsinki.fi>
+Date:   Sun Nov 6 10:40:42 2022 +0200
+
+    poistettu file1 ja muutettu file2:n nimeä
+
+ tiedostoja/file2             | 0
+ tiedostoja/{file1 => file22} | 0
+ 2 files changed, 0 insertions(+), 0 deletions(-)
+
+commit 8159249d70fea51719b353a70d65a7cd0f4f1f2d
+Author: jattajulia <jatta.kivihaka@helsinki.fi>
+Date:   Sun Nov 6 10:35:02 2022 +0200
+
+    luotu uusi hakemisto
+
+ tiedostoja/file1 | 0
+ tiedostoja/file2 | 0
+ tiedostoja/file3 | 0
+ 3 files changed, 0 insertions(+), 0 deletions(-)
+
+commit 5a16b31df6eb438dbf1276e929688b1ca50f3ea4
+Author: jattajulia <jatta.kivihaka@helsinki.fi>
+Date:   Sun Nov 6 10:20:52 2022 +0200
+
+    muokattu tiedostojen sisältöä
+
+ eka.txt    | 3 ++-
+ kolmas.txt | 2 +-
+ 2 files changed, 3 insertions(+), 2 deletions(-)
+
+commit 13d2340f3346fff606e58c7ab872de7747c669c4
+Author: jattajulia <jatta.kivihaka@helsinki.fi>
+Date:   Sun Nov 6 10:18:02 2022 +0200
+
+    tiedosto nimetty uudelleen
+
+ tiedosto.txt => eka.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 6411a8939440fba9ac5f37553b087fc68334e834
+Author: jattajulia <jatta.kivihaka@helsinki.fi>
+Date:   Sun Nov 6 10:16:55 2022 +0200
+
+    tiedosto poistettu
+
+ toinen.txt | 1 -
+ 1 file changed, 1 deletion(-)
+
+commit 827f42a89594c4c6d7738a1ddea7133c76ea8062
+Author: jattajulia <jatta.kivihaka@helsinki.fi>
+Date:   Sun Nov 6 10:14:08 2022 +0200
+
+    tekstiä muokattu
+
+ tiedosto.txt | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+commit d005eb57c5ad17aed074de5d625ca151d297deef
+Author: jattajulia <jatta.kivihaka@helsinki.fi>
+Date:   Sun Nov 6 10:11:55 2022 +0200
+
+    lisätty tekstiä
+
+ tiedosto.txt | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+commit 197d9940addd5f57241aecb0fb619882ad87f343
+Author: jattajulia <jatta.kivihaka@helsinki.fi>
+Date:   Sun Nov 6 10:05:21 2022 +0200
+
+    luotu uusi hakemisto
+
+ stuff/joku_tiedosto.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit d440693ce4f3b84345d57dcf84608a2844f3df26
+Author: jattajulia <jatta.kivihaka@helsinki.fi>
+Date:   Sun Nov 6 10:03:58 2022 +0200
+
+    muokattu tiedostojen sisältöä
+
+ kolmas.txt | 1 +
+ toinen.txt | 1 +
+ 2 files changed, 2 insertions(+)
+
+commit 9201e7e61629ccc94d94306b8035f14d81d2174c
+Author: jattajulia <jatta.kivihaka@helsinki.fi>
+Date:   Sun Nov 6 10:02:00 2022 +0200
+
+    luotu uusi tiedosto kolmas.txt
+
+ kolmas.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 7be2bd51b338665524f622c0f22ed083861c0ff0
+Author: jattajulia <jatta.kivihaka@helsinki.fi>
+Date:   Sun Nov 6 09:57:26 2022 +0200
+
+    muutos ja lisäys
+
+ tiedosto.txt | 1 +
+ toinen.txt   | 0
+ 2 files changed, 1 insertion(+)
+
+commit 07ce4e389f5c14957e62922d39bc67e8a51e7bba
+Author: jattajulia <jatta.kivihaka@helsinki.fi>
+Date:   Sun Nov 6 09:54:08 2022 +0200
+
+    tiedosto.txt luotu
+
+ tiedosto.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
