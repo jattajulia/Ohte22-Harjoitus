@@ -7,4 +7,5 @@
 
 ### Viikko 2
 [tuntikirjanpito.md](https://github.com/jattajulia/Ohte22-Harjoitus/blob/master/dokumentaatio/tuntikirjanpito.md)
+[vaatimusmaarittely.md](https://github.com/jattajulia/Ohte22-Harjoitus/blob/master/dokumentaatio/vaatimusmaarittely.md)
 
